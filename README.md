@@ -22,6 +22,11 @@ To run this website locally, you will need to have Node.js and NPM installed on 
 ## Usage
 
 PetShop Express website provides a simple and user-friendly interface for purchasing pet supplies. You can browse through the various categories of products and add them to your cart. Once you are done shopping, you can proceed to checkout and enter your payment and shipping details.
+![1](https://user-images.githubusercontent.com/54256553/223474005-f1c2fead-0839-452f-9d73-0d62643f240d.png)
+![2](https://user-images.githubusercontent.com/54256553/223474039-114d2018-da58-4ff7-89ef-b4d9911376e7.png)
+![3](https://user-images.githubusercontent.com/54256553/223474050-1b2f81f3-4bbe-40e9-b687-882dcbe5f683.png)
+![4](https://user-images.githubusercontent.com/54256553/223474082-f0249d57-5a9b-4f22-bb91-d608b3f7ac69.png)
+![5](https://user-images.githubusercontent.com/54256553/223474094-2179ebfa-34be-41dd-87f8-0be0420e44e6.png)
 
 ## Contributing
 
